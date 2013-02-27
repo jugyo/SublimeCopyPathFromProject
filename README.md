@@ -1,0 +1,1 @@
+Sublime Text Plugin to copy current file path from project.
