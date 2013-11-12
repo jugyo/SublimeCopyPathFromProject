@@ -1,6 +1,11 @@
 [
   {
-    "caption": "CopyPathFromProject: copy_path_from_project",
+    "caption": "Copy Path From Project: copy path from project",
     "command": "copy_path_from_project"
+  },
+  {
+    "caption": "Copy Path From Project: copy path from project with line number",
+    "command": "copy_path_from_project",
+    "args": {"lineNumber": true}
   }
 ]
